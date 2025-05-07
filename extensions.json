@@ -1,0 +1,58 @@
+[
+  {
+    "id": "Atishay-Jain.All-Autocomplete",
+    "version": "0.0.26"
+  },
+  {
+    "id": "bradlc.vscode-tailwindcss",
+    "version": "0.14.16"
+  },
+  {
+    "id": "eamodio.gitlens",
+    "version": "17.0.3"
+  },
+  {
+    "id": "leodevbro.blockman",
+    "version": "1.7.8"
+  },
+  {
+    "id": "ms-vscode.sublime-keybindings",
+    "version": "4.1.10"
+  },
+  {
+    "id": "oderwat.indent-rainbow",
+    "version": "8.3.1"
+  },
+  {
+    "id": "PKief.material-icon-theme",
+    "version": "5.22.0"
+  },
+  {
+    "id": "shardulm94.trailing-spaces",
+    "version": "0.4.1"
+  },
+  {
+    "id": "SirTori.indenticator",
+    "version": "0.7.0"
+  },
+  {
+    "id": "streetsidesoftware.code-spell-checker",
+    "version": "4.0.47"
+  },
+  {
+    "id": "tamasfe.even-better-toml",
+    "version": "0.21.2"
+  },
+  {
+    "id": "YoraiLevi.sync-settings-with-github",
+    "version": "0.0.3"
+  },
+  {
+    "id": "yzhang.markdown-all-in-one",
+    "version": "3.6.3"
+  },
+  {
+    "id": "zokugun.cron-tasks",
+    "version": "0.2.1"
+  }
+]
